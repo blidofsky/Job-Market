@@ -1,1 +1,1 @@
-# Job-Market Welcome!  A draft of my job market paper will be available shortly.
+Welcome!  This folder contains the latest versiion of my job market paper, CV, and research statement.
